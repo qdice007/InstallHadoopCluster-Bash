@@ -1,0 +1,2 @@
+# InstallHadoopCluster-Bash
+安装Hadoop大数据集群软件的Bash脚本
